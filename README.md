@@ -9,6 +9,21 @@ The full report is also included in this repository.
 
 Everyone would have wanted to invest in companies like Google, Amazon, Apple, and others when they first listed on the stock market if they knew how much they are worth today; if you couldn't or did not invest then, this is an opportunity for Maven Analytic to invest in the next best thing. Keep reading until the end to find out about that potential stock.
 
+## Qestions
+
+Questions to looked into in this analysis
+
+1. On which date in the sample did the most overall trading volume occur? Which two
+stocks were most actively traded on that date?
+
+2. Which day of the week has the highest volume? lowest?
+
+3. When did Amazon (AMZN) experience the greatest volatility, as measured by the
+difference between the high and low prices?
+
+4. Which stock would you invest in if you could go back in time and invest from 1/2/2014 to
+12/29/2017? What percentage gain would you expect?
+
 ## Methodology
 
 Tools used in achieving the goals;
